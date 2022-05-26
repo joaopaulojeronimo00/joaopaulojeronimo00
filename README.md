@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João Paulo Jerônimo
 - 👀 I’m interested in Java, C++, JavaScript,
-- 🌱 I’m currently learning SprinFramework, Java 
+- 🌱 I’m currently learning SpringFramework, Java 
 - :open_book: Student of Bachelor Science and Technology with Mecatronics in Federal University of Rio Grande do Norte
 - 💞️ I’m looking to collaborate on BackEnd projects using Spring
 - 📫 How to reach me: https://www.linkedin.com/in/joaopaulojeronimo/
